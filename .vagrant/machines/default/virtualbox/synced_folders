@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/multidb":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/multidb","hostpath":"/Users/sa-pair-2/code/learning/multidb","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/sa-pair-2/code/learning/multidb","disabled":false}}}
